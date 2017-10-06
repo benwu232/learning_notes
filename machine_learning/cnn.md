@@ -3,3 +3,6 @@ https://zhuanlan.zhihu.com/p/29367273
 
 https://github.com/vdumoulin/conv_arithmetic
 visualize 各种 convolution
+
+https://zhuanlan.zhihu.com/p/27642620
+
