@@ -47,5 +47,13 @@ geometry of linear algebra
 
 Linear Algebra and Geometry (Igor R. Shafarevich  and Alexey O. Remizov)
 
+https://www.zhihu.com/question/19666954
+
+https://www.zhihu.com/question/22218306
+
+https://www.zhihu.com/question/21874816
+
+https://zhuanlan.zhihu.com/p/25955676
+
 
 
