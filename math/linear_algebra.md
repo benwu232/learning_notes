@@ -5,6 +5,7 @@ https://www.zhihu.com/question/20534668
 
 
 courses
+
 http://www.bilibili.com/video/av6731067/
 https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1
 essence of linear algebra
