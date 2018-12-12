@@ -8,4 +8,8 @@ https://zhuanlan.zhihu.com/p/22252270
 https://www.fast.ai/2018/07/02/adam-weight-decay/
 介绍了adamw和cyclic learning rate, super convergence等目前最好的技术
 
+https://zhuanlan.zhihu.com/p/52084949
+optimizer的最新进展
 
+https://sgugger.github.io/the-1cycle-policy.html
+介绍1cycle-policy
