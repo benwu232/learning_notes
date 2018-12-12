@@ -13,3 +13,7 @@ optimizer的最新进展
 
 https://sgugger.github.io/the-1cycle-policy.html
 介绍1cycle-policy
+
+https://www.fast.ai/2018/07/02/adam-weight-decay/
+fastai的尝试，adamw, 1cycle-policy
+
