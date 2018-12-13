@@ -15,5 +15,10 @@ https://sgugger.github.io/the-1cycle-policy.html
 介绍1cycle-policy
 
 https://www.fast.ai/2018/07/02/adam-weight-decay/
-fastai的尝试，adamw, 1cycle-policy
+fastai的尝试，adamw, 1cycle-policy，amsgrad
+
+译文
+https://zhuanlan.zhihu.com/p/38945390
+
+https://zhuanlan.zhihu.com/p/39543160
 
