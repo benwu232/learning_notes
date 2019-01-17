@@ -30,11 +30,13 @@ https://zhuanlan.zhihu.com/p/35040994
 contrastive loss
 
 https://www.quora.com/What-is-a-contrastive-loss-function-in-Siamese-networks
+
 https://hackernoon.com/facial-similarity-with-siamese-networks-in-pytorch-9642aa9db2f7
 
 triplet loss
 
 https://omoindrot.github.io/triplet-loss#batch-hard-strategy
+
 https://zhuanlan.zhihu.com/p/35560666
 
 
