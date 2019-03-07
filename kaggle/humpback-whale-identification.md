@@ -102,6 +102,7 @@ augmentaion methods and augmentation libraries
 * over sampling
 * sphereface
 * multi-layer fusion
+
 I used global average pool to each layer(layer 1- 4) and concatenated them.
 * image alignment
 
