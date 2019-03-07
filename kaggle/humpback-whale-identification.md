@@ -1,5 +1,29 @@
 感觉：有些方法对这个组没用但是对另一个组有用，说明感觉是很主观的，或者有些方法之间有互斥。
 
+## Knowledge collection
+
+[face recognition survey](https://so.csdn.net/so/search/s.do?q=%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E7%B3%BB%E5%88%97&t=blog&u=Fire_Light_)
+
+https://zhuanlan.zhihu.com/p/34044634
+summary of all kinds of loss functions based on softmax loss used in face recognition, including ArcFace
+
+https://zhuanlan.zhihu.com/p/34404607
+
+https://zhuanlan.zhihu.com/p/34436551
+
+very good, worthy of reading again
+
+[ArcFace](https://arxiv.org/pdf/1801.07698.pdf)
+similar to SphereFace and CosFace
+
+[Chinese](https://blog.csdn.net/u014380165/article/details/80645489)
+
+https://zhuanlan.zhihu.com/p/33750684
+
+* small images to bigger images
+* easy pairs to harder pairs
+* flip images to make new classes
+
 
 ## 1st place
 [Link to disscussion](https://www.kaggle.com/c/humpback-whale-identification/discussion/82366)
@@ -14,7 +38,7 @@
 
 bbox + landmark
 
-[ArcFace](https://arxiv.org/pdf/1801.07698.pdf)
+ArcFace
 
 mix aligned and non-aligned images
 
@@ -63,8 +87,40 @@ center loss
 
 [ring loss](https://arxiv.org/abs/1803.00130)
 
+## 9th place
 
+some experiences:
+* After several competitions I begin to realise that sometimes when you don’t have much data light encoders may really boost your score. Like they don’t tend to overfit much to rare classes and label noise. This is just a hypothesis that need to be carefully verified.
 
+augmentaion methods and augmentation libraries
 
+## 10th place
+[Link](https://www.kaggle.com/c/humpback-whale-identification/discussion/82430)
 
+## 15th place
+[Link](https://www.kaggle.com/c/humpback-whale-identification/discussion/82361)
+* over sampling
+* sphereface
+* multi-layer fusion
+I used global average pool to each layer(layer 1- 4) and concatenated them.
+* image alignment
 
+## 24th place
+[Link](https://www.kaggle.com/c/humpback-whale-identification/discussion/82359)
+
+* Martin's solution train longer
+* Training for another 5-10 epochs resulted in a similar score but the distribution of predicted whales was much more variable though the scores remained very close. I figured this was due to randomness in how the augmentations were applied so I trained several dozen versions of this model with minor variations--changing image size from 224 up to 600 both grayscale and rgb.
+
+## 31th place
+* Marin's solution
+* RGB
+* Pretrained model
+* bigger size
+
+## 57th place
+[Link](https://www.kaggle.com/c/humpback-whale-identification/discussion/82364#latest-481830)
+Good use of fastai
+
+## 143th place
+[Link](https://www.kaggle.com/c/humpback-whale-identification/discussion/82480)
+famous Radek code
