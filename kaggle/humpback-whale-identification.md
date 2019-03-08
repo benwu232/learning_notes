@@ -20,29 +20,38 @@ similar to SphereFace and CosFace
 
 https://zhuanlan.zhihu.com/p/33750684
 
-* small images to bigger images
-* easy pairs to harder pairs
-* flip images to make new classes
+https://zhuanlan.zhihu.com/p/33288325
+
+
 
 ## Summary of viable methods
+https://www.kaggle.com/c/humpback-whale-identification/discussion/82437
+
+some other guys summary
+
 1. augmentation methods
 
-*HorizontalFlip
-*Rotate with 16 degree limit
-*ShiftScaleRotate with 16 degree limit
-*RandomBrightnessContrast
-*RandomGamma
-*Blur
-*Perspective transform: tile left, right and corner
-*Shear
-*MotionBlur
-*GridDistortion
-*ElasticTransform
-*Cutout
+* HorizontalFlip
+* Rotate with 16 degree limit
+* ShiftScaleRotate with 16 degree limit
+* RandomBrightnessContrast
+* RandomGamma
+* Blur
+* Perspective transform: tile left, right and corner
+* Shear
+* MotionBlur
+* GridDistortion
+* ElasticTransform
+* Cutout
 
 2. Loss functions
-*
+* ArcFace
+* CosFace
+One-shot Face Recognition by Promoting Underrepresented Classes
 
+3. small images to bigger images
+4. easy pairs to harder pairs
+5. flip images to make new classes
 
 ## 1st place
 [Link to disscussion](https://www.kaggle.com/c/humpback-whale-identification/discussion/82366)
