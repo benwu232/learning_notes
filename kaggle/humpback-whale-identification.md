@@ -24,6 +24,25 @@ https://zhuanlan.zhihu.com/p/33750684
 * easy pairs to harder pairs
 * flip images to make new classes
 
+## Summary of viable methods
+1. augmentation methods
+
+*HorizontalFlip
+*Rotate with 16 degree limit
+*ShiftScaleRotate with 16 degree limit
+*RandomBrightnessContrast
+*RandomGamma
+*Blur
+*Perspective transform: tile left, right and corner
+*Shear
+*MotionBlur
+*GridDistortion
+*ElasticTransform
+*Cutout
+
+2. Loss functions
+*
+
 
 ## 1st place
 [Link to disscussion](https://www.kaggle.com/c/humpback-whale-identification/discussion/82366)
@@ -51,8 +70,9 @@ mix aligned and non-aligned images
 
 [Link to summary](https://weiminwang.blog/2019/03/01/whale-identification-5th-place-approach-using-siamese-networks-with-adversarial-training/)
 
-architecture: Siamese Network
-tricks:
+*architecture:* Siamese Network
+
+*tricks:*
 * different size of images
 * different pretrained or self-designed net architectures 
 
@@ -88,6 +108,7 @@ center loss
 [ring loss](https://arxiv.org/abs/1803.00130)
 
 ## 9th place
+https://www.kaggle.com/c/humpback-whale-identification/discussion/82427
 
 some experiences:
 * After several competitions I begin to realise that sometimes when you don’t have much data light encoders may really boost your score. Like they don’t tend to overfit much to rare classes and label noise. This is just a hypothesis that need to be carefully verified.
