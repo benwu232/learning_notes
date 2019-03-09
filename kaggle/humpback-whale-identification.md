@@ -52,17 +52,22 @@ One-shot Face Recognition by Promoting Underrepresented Classes
 3. small images to bigger images
 4. easy pairs to harder pairs
 5. flip images to make new classes
+6. new_whale threhold selection based on distribution of new_whale in training set
 
 ## 1st place
 [Link to disscussion](https://www.kaggle.com/c/humpback-whale-identification/discussion/82366)
 
 [Chinese](https://zhuanlan.zhihu.com/p/58496385)
 
+[code](https://github.com/earhian/Humpback-Whale-Identification-1st-)
+
 4-channel, RGB + Mask
 
 
 ## 3rd place
 [Link to disscussion](https://www.kaggle.com/c/humpback-whale-identification/discussion/82484)
+
+[code](https://github.com/pudae/kaggle-humpback)
 
 bbox + landmark
 
@@ -110,6 +115,8 @@ https://blog.csdn.net/Evan123mg/article/details/80058077
 [Link to discussion](https://www.kaggle.com/c/humpback-whale-identification/discussion/82352)
 enhanced version of Radek
 
+[Code](https://github.com/ducha-aiki/whale-identification-2018)
+
 Classification
 
 center loss
@@ -154,4 +161,5 @@ Good use of fastai
 
 ## 143th place
 [Link](https://www.kaggle.com/c/humpback-whale-identification/discussion/82480)
+[Code](https://github.com/radekosmulski/whale)
 famous Radek code
