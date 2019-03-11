@@ -149,6 +149,11 @@ I used global average pool to each layer(layer 1- 4) and concatenated them.
 * Martin's solution train longer
 * Training for another 5-10 epochs resulted in a similar score but the distribution of predicted whales was much more variable though the scores remained very close. I figured this was due to randomness in how the augmentations were applied so I trained several dozen versions of this model with minor variations--changing image size from 224 up to 600 both grayscale and rgb.
 
+## 25th place
+[Link](https://www.kaggle.com/c/humpback-whale-identification/discussion/82409)
+- use cosface and arcface
+- prototype networks
+
 ## 31th place
 * Marin's solution
 * RGB
