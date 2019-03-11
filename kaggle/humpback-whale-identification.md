@@ -18,9 +18,13 @@ similar to SphereFace and CosFace
 
 [Chinese](https://blog.csdn.net/u014380165/article/details/80645489)
 
+some losses
+
 https://zhuanlan.zhihu.com/p/33750684
 
 https://zhuanlan.zhihu.com/p/33288325
+
+https://blog.csdn.net/wangdongwei0/article/details/84576044
 
 
 
