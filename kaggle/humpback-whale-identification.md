@@ -33,7 +33,16 @@ https://www.kaggle.com/c/humpback-whale-identification/discussion/82437
 
 some other guys summary
 
-1. augmentation methods
+1. Proper models
+- proper backbone
+- proper custom architechture
+
+2. Loss functions
+* ArcFace
+* CosFace
+One-shot Face Recognition by Promoting Underrepresented Classes
+
+3. augmentation methods
 
 * HorizontalFlip
 * Rotate with 16 degree limit
@@ -48,15 +57,10 @@ some other guys summary
 * ElasticTransform
 * Cutout
 
-2. Loss functions
-* ArcFace
-* CosFace
-One-shot Face Recognition by Promoting Underrepresented Classes
-
-3. small images to bigger images
-4. easy pairs to harder pairs
-5. flip images to make new classes
-6. new_whale threhold selection based on distribution of new_whale in training set
+4. small images to bigger images
+5. easy pairs to harder pairs
+6. flip images to make new classes
+7. new_whale threhold selection based on distribution of new_whale in training set
 
 ## 1st place
 [Link to disscussion](https://www.kaggle.com/c/humpback-whale-identification/discussion/82366)
