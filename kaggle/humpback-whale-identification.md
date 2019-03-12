@@ -26,6 +26,9 @@ https://zhuanlan.zhihu.com/p/33288325
 
 https://blog.csdn.net/wangdongwei0/article/details/84576044
 
+https://zhuanlan.zhihu.com/p/36235719
+few-shot learning
+
 
 
 ## Summary of viable methods
