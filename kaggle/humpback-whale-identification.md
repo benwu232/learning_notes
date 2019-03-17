@@ -24,6 +24,10 @@ https://zhuanlan.zhihu.com/p/33750684
 
 https://zhuanlan.zhihu.com/p/33288325
 
+https://zhpmatrix.github.io/2018/06/11/face-loss/
+
+公式比较清楚
+
 https://blog.csdn.net/wangdongwei0/article/details/84576044
 
 https://zhuanlan.zhihu.com/p/36235719
