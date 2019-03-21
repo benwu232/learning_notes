@@ -31,7 +31,12 @@ https://zhpmatrix.github.io/2018/06/11/face-loss/
 https://blog.csdn.net/wangdongwei0/article/details/84576044
 
 https://zhuanlan.zhihu.com/p/36235719
+
 few-shot learning
+
+https://zhuanlan.zhihu.com/p/27748177
+
+sampling 
 
 
 
