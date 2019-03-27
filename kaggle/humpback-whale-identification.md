@@ -45,6 +45,10 @@ https://www.kaggle.com/c/humpback-whale-identification/discussion/82437
 
 some other guys summary
 
+https://arxiv.org/pdf/1903.07071.pdf
+
+This paper summarizes some tricks and sets a baseline.
+
 1. Proper models
 - proper backbone
 - proper custom architechture
@@ -85,6 +89,7 @@ One-shot Face Recognition by Promoting Underrepresented Classes
 
 ## 2nd place
 [Link](https://www.kaggle.com/c/humpback-whale-identification/discussion/83885)
+
 [code](https://github.com/SeuTao/Kaggle_Whale2019_2nd_palce_solution)
 
 
