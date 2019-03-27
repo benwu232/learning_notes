@@ -83,6 +83,10 @@ One-shot Face Recognition by Promoting Underrepresented Classes
 
 4-channel, RGB + Mask
 
+## 2nd place
+[Link](https://www.kaggle.com/c/humpback-whale-identification/discussion/83885)
+[code](https://github.com/SeuTao/Kaggle_Whale2019_2nd_palce_solution)
+
 
 ## 3rd place
 [Link to disscussion](https://www.kaggle.com/c/humpback-whale-identification/discussion/82484)
