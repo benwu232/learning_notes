@@ -34,6 +34,14 @@ starter
 
 https://towardsdatascience.com/fastai-image-segmentation-eacad8543f6f
 
+https://www.jianshu.com/p/8d894605bb06
+
+https://medium.com/@hiromi_suenaga/deep-learning-2-part-2-lesson-14-e0d23c7a0add
+
+https://github.com/fastai/courses/tree/master/deeplearning2
+
+
+
 ### Others
 
 https://github.com/facebookresearch/maskrcnn-benchmark
@@ -61,6 +69,8 @@ https://www.datasetlist.com/
 
 https://zhuanlan.zhihu.com/p/35399323
 
+https://blog.csdn.net/haoji007/article/details/78448198
+
 汇总
 
 https://zhuanlan.zhihu.com/p/55364815
@@ -74,6 +84,10 @@ https://blog.csdn.net/IAMoldpan/article/details/79196413
 https://arleyzhang.github.io/articles/1dc20586/
 
 https://cloud.tencent.com/developer/news/231005
+
+https://www.zhihu.com/question/263994588
+
+很详细
 
 ### MS-COCO
 
