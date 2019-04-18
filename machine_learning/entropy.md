@@ -1,4 +1,4 @@
-
+https://en.wikipedia.org/wiki/Entropy_(information_theory)
 
 https://en.wikipedia.org/wiki/Cross_entropy
 
