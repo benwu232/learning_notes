@@ -11,3 +11,9 @@ some papers
 https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/90664#latest-524023
 
 another paper
+
+https://www.kaggle.com/jsaguiar/seismic-data-exploration
+
+解释的很全面
+
+
