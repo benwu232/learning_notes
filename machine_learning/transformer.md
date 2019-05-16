@@ -1,6 +1,10 @@
 https://zhuanlan.zhihu.com/p/48508221
 
+https://zhuanlan.zhihu.com/p/47282410
+
 http://jalammar.github.io/illustrated-transformer/
+
+这三篇差不多，讲的都很好
 
 https://zhuanlan.zhihu.com/p/47812375
 
@@ -22,7 +26,6 @@ https://zhuanlan.zhihu.com/p/54356280
 
 https://zhuanlan.zhihu.com/p/38485843
 
-https://zhuanlan.zhihu.com/p/47282410
 
 https://zhuanlan.zhihu.com/p/54770086
 
