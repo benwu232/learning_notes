@@ -6,6 +6,10 @@ http://jalammar.github.io/illustrated-transformer/
 
 这三篇差不多，讲的都很好
 
+https://zhuanlan.zhihu.com/p/38485843
+
+挺好，可再看
+
 https://zhuanlan.zhihu.com/p/47812375
 
 https://www.zhihu.com/question/302392659/answer/551542493
@@ -24,7 +28,7 @@ https://zhuanlan.zhihu.com/p/39034683
 
 https://zhuanlan.zhihu.com/p/54356280
 
-https://zhuanlan.zhihu.com/p/38485843
+
 
 
 https://zhuanlan.zhihu.com/p/54770086
