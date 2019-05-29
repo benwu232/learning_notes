@@ -1,9 +1,8 @@
-kaggle 资源
+
 
 https://www.kaggle.com/tags/recommender-systems
 
-https://www.kaggle.com/tags/recommendation
-
+kaggle 资源
 
 
 
