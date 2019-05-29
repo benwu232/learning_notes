@@ -1,3 +1,11 @@
+kaggle 资源
+
+https://www.kaggle.com/tags/recommender-systems
+
+https://www.kaggle.com/tags/recommendation
+
+
+
 
 https://www.jiqizhixin.com/articles/2019-02-20-15
 
