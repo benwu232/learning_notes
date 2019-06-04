@@ -46,4 +46,10 @@ https://www.jiqizhixin.com/articles/2019-03-07-19?from=synced&keyword=%E6%8E%A8%
 
 https://towardsdatascience.com/building-a-book-recommendation-system-using-keras-1fba34180699
 
-keras eample
+keras example
+
+https://nipunbatra.github.io/blog/2017/recommend-keras.html
+
+另一个keras example，简单易懂
+
+
