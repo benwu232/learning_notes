@@ -1,16 +1,11 @@
-https://github.com/deeplearning-ai/machine-learning-yearning-cn
 
-machine-learning-yearning
+- [machine-learning-yearning](https://github.com/deeplearning-ai/machine-learning-yearning-cn)
 
-https://zhuanlan.zhihu.com/p/61728242
+- [图解深度学习](https://zhuanlan.zhihu.com/p/61728242)
 
-图解深度学习
+- [编程之法：面试和算法心得](https://wizardforcel.gitbooks.io/the-art-of-programming-by-july/content/)
 
-https://wizardforcel.gitbooks.io/the-art-of-programming-by-july/content/
+- [Probability for Data Science](https://textbook.prob140.org/)
 
-编程之法：面试和算法心得
-
-https://textbook.prob140.org/
-
-Probability for Data Science
+- [Introductory Statistics](https://philschatz.com/statistics-book/contents/m46913.html)
 
