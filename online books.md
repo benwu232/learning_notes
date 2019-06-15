@@ -9,3 +9,4 @@
 
 - [Introductory Statistics](https://philschatz.com/statistics-book/contents/m46913.html)
 
+- [神经网络与深度学习](https://nndl.github.io/)
