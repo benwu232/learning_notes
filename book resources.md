@@ -8,3 +8,5 @@ https://github.com/790013438/Free-Algorithm-Books-1
 
 algorithms
 
+
+- [awesome machine learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
