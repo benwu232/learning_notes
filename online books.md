@@ -15,3 +15,6 @@
 
 - [the hundred-page machine learning book](http://themlbook.com/wiki/doku.php)
 
+-[Mathematics for Machine Learning](https://mml-book.github.io/)
+
+- [Statistical Thinking for the 21st Century](http://statsthinking21.org/)
