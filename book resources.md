@@ -12,6 +12,8 @@ https://github.com/790013438/Free-Algorithm-Books-1
 
 https://github.com/LSayhi/book-paper-note
 
+https://github.com/Jing--Li/book
+
 algorithms
 
 
