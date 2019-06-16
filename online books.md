@@ -12,3 +12,6 @@
 - [神经网络与深度学习](https://nndl.github.io/)
 
 - [南瓜书PumpkinBook](https://datawhalechina.github.io/pumpkin-book/#/)
+
+- [the hundred-page machine learning book](http://themlbook.com/wiki/doku.php)
+
