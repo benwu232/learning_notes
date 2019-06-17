@@ -21,4 +21,6 @@
 
 - [动手学深度学习](https://zh.gluon.ai/)
 
+- [极客学院](http://wiki.jikexueyuan.com/)
+
 
