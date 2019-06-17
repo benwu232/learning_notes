@@ -5,6 +5,8 @@
 
 - [编程之法：面试和算法心得](https://wizardforcel.gitbooks.io/the-art-of-programming-by-july/content/)
 
+- [problem-solving-with-algorithms-and-data-structure-using-python](https://interactivepython.org/courselib/static/pythonds/index.html)
+
 - [problem-solving-with-algorithms-and-data-structure-using-python 中文版](https://facert.gitbooks.io/python-data-structure-cn/)
 
 - [Probability for Data Science](https://textbook.prob140.org/)
