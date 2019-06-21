@@ -24,6 +24,7 @@ https://github.com/demorenoc/springer-books/blob/master/texts_in_statistics.md
 
 https://github.com/tpn/pdfs
 
+https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
 
 
 
