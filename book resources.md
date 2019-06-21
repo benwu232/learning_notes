@@ -20,6 +20,12 @@ https://github.com/Jing--Li/book
 
 algorithms
 
+https://github.com/demorenoc/springer-books/blob/master/texts_in_statistics.md
+
+https://github.com/tpn/pdfs
+
+
+
 
 - [awesome machine learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 
