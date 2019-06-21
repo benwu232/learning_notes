@@ -7,6 +7,8 @@
 
 - [problem-solving-with-algorithms-and-data-structure-using-python](https://interactivepython.org/courselib/static/pythonds/index.html)
 
+- [Visual Algo](https://visualgo.net/en)
+
 - [problem-solving-with-algorithms-and-data-structure-using-python 中文版](https://facert.gitbooks.io/python-data-structure-cn/)
 
 - [Probability for Data Science](https://textbook.prob140.org/)
