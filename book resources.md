@@ -1,3 +1,5 @@
+https://github.com/zslucky/awesome-AI-books
+
 https://github.com/dynamicdeploy/gninrael-enihcam
 
 https://github.com/achinnasamy/Free-Deep-Learning-Books/tree/master/book
