@@ -15,6 +15,8 @@
 
 - [Probability, Statistics and random process](https://www.probabilitycourse.com/)
 
+- [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/tree/master/)
+
 - [Introductory Statistics](https://philschatz.com/statistics-book/contents/m46913.html)
 
 - [神经网络与深度学习](https://nndl.github.io/)
