@@ -13,6 +13,8 @@
 
 - [Probability for Data Science](https://textbook.prob140.org/)
 
+- [Probability, Statistics and random process](https://www.probabilitycourse.com/)
+
 - [Introductory Statistics](https://philschatz.com/statistics-book/contents/m46913.html)
 
 - [神经网络与深度学习](https://nndl.github.io/)
