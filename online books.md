@@ -37,6 +37,6 @@
 
 - [Spark internels](https://github.com/JerryLead/SparkInternals)
 
-
+- [The Internals of Apache Spark](https://legacy.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
 
 
