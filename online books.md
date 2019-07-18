@@ -39,4 +39,5 @@
 
 - [The Internals of Apache Spark](https://legacy.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
 
+- [《Designing Data-Intensive Application》DDIA中文翻译](https://github.com/Vonng/ddia)
 
