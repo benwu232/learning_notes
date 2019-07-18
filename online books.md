@@ -41,3 +41,7 @@
 
 - [《Designing Data-Intensive Application》DDIA中文翻译](https://github.com/Vonng/ddia)
 
+- [Kubernetes指南](https://kubernetes.feisky.xyz/)
+
+
+
