@@ -19,6 +19,7 @@
 
 - [Introductory Statistics](https://philschatz.com/statistics-book/contents/m46913.html)
 
+
 - [神经网络与深度学习](https://nndl.github.io/)
 
 - [南瓜书PumpkinBook](https://datawhalechina.github.io/pumpkin-book/#/)
@@ -44,4 +45,6 @@
 - [Kubernetes指南](https://kubernetes.feisky.xyz/)
 
 - [Docker — 从入门到实践](https://github.com/yeasy/docker_practice)
+
+- [python-to-scala](https://wrobstory.gitbooks.io/python-to-scala/content/)
 
