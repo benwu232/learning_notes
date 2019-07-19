@@ -1,3 +1,5 @@
+https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
+
 https://github.com/zslucky/awesome-AI-books
 
 https://github.com/dynamicdeploy/gninrael-enihcam
