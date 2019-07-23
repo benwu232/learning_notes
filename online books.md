@@ -48,3 +48,9 @@
 
 - [python-to-scala](https://wrobstory.gitbooks.io/python-to-scala/content/)
 
+- [Linux工具快速教程](https://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html)
+
+- [linux-insides](https://0xax.gitbooks.io/linux-insides/content/)
+
+- [The Debian Administrator's Handbook](https://debian-handbook.info/browse/stable/)
+
