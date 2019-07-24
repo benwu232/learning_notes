@@ -17,20 +17,20 @@
 - [动手学深度学习](https://zh.gluon.ai/)
 - [极客学院](http://wiki.jikexueyuan.com/)
 - [immersive linear algebra](http://immersivemath.com/ila/index.html)
-- [Spark internels](https://github.com/JerryLead/SparkInternals)
-- [The Internals of Apache Spark](https://legacy.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
 - [《Designing Data-Intensive Application》DDIA中文翻译](https://github.com/Vonng/ddia)
 - [Kubernetes指南](https://kubernetes.feisky.xyz/)
+
+### Spark
+- [Spark internels](https://github.com/JerryLead/SparkInternals)
+- [The Internals of Apache Spark](https://legacy.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
 - [python-to-scala](https://wrobstory.gitbooks.io/python-to-scala/content/)
 
 ### Linux
-
 - [Linux工具快速教程](https://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html)
 - [linux-insides](https://0xax.gitbooks.io/linux-insides/content/)
 - [The Debian Administrator's Handbook](https://debian-handbook.info/browse/stable/)
 
 ### docker
-
 - [docker doc](https://docs.docker.com/)
 - [play with docker](https://training.play-with-docker.com/)
 - [Docker — 从入门到实践](https://github.com/yeasy/docker_practice)
