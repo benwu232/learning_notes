@@ -37,3 +37,6 @@
 - [play with docker](https://training.play-with-docker.com/)
 - [Docker — 从入门到实践](https://github.com/yeasy/docker_practice)
 
+### kubernetes
+- [kubernetes 官网教程](https://kubernetes.io/zh/docs/tutorials/)
+
