@@ -14,3 +14,8 @@ http://blog.brainlounge.de/memoryleaks/getting-started-with-spark-on-kubernetes/
 
 https://www.slideshare.net/databricks/apache-spark-on-k8s-best-practice-and-performance-in-the-cloud
 
+
+
+https://xiaoxubeii.github.io/articles/practice-of-spark-on-kubernetes/
+
+
