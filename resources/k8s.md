@@ -18,4 +18,4 @@ https://www.slideshare.net/databricks/apache-spark-on-k8s-best-practice-and-perf
 
 https://xiaoxubeii.github.io/articles/practice-of-spark-on-kubernetes/
 
-
+https://lunatech.com/blog/XDxThxAAACoAMoL9/running-the-spark-notebook-on-a-kubernetes-google-cloud-cluster
