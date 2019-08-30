@@ -41,4 +41,5 @@
 - [kubernetes 官网教程](https://kubernetes.io/zh/docs/tutorials/)
 - [Kubernetes Handbook——Kubernetes中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)
 - [Kubernetes 指南](https://feisky.gitbooks.io/kubernetes/)
+- [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
