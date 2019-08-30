@@ -6,6 +6,8 @@ https://www.katacoda.com/learn
 
 https://minikube.sigs.k8s.io/docs/
 
+[Kubernetes 安装文档推荐](https://www.kubernetes.org.cn/5650.html]
+
 
 https://www.lightbend.com/blog/how-to-manage-monitor-spark-on-kubernetes-introduction-spark-submit-kubernetes-operator
 
