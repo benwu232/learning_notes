@@ -1,3 +1,4 @@
+https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 
 https://kubernetes.io/zh/docs/tutorials/kubernetes-basics/
 
