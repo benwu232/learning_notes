@@ -27,4 +27,7 @@ https://lunatech.com/blog/XDxThxAAACoAMoL9/running-the-spark-notebook-on-a-kuber
 https://www.qikqiak.com/post/kubernetes-jenkins1/
 
 [基于 Jenkins、Gitlab、Harbor、Helm 和 K8S 的 CI/CD(一)](https://zhuanlan.zhihu.com/p/62284485)
+
 [基于 Jenkins、Gitlab、Harbor、Helm 和 K8S 的 CI/CD(二)](https://zhuanlan.zhihu.com/p/58223425)
+
+https://www.ibm.com/developerworks/cn/linux/l-lo-docker-quickly-deploy-multiple-demands-spark/index.html
