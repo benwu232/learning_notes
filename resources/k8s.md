@@ -22,3 +22,9 @@ https://www.slideshare.net/databricks/apache-spark-on-k8s-best-practice-and-perf
 https://xiaoxubeii.github.io/articles/practice-of-spark-on-kubernetes/
 
 https://lunatech.com/blog/XDxThxAAACoAMoL9/running-the-spark-notebook-on-a-kubernetes-google-cloud-cluster
+
+### CICD & DevOps
+https://www.qikqiak.com/post/kubernetes-jenkins1/
+
+[基于 Jenkins、Gitlab、Harbor、Helm 和 K8S 的 CI/CD(一)](https://zhuanlan.zhihu.com/p/62284485)
+[基于 Jenkins、Gitlab、Harbor、Helm 和 K8S 的 CI/CD(二)](https://zhuanlan.zhihu.com/p/58223425)
