@@ -31,6 +31,11 @@ https://www.infoq.cn/article/It1BQEYocrL9iGvoS-Xy
 
 [云原生下的开发测试调试IDE](https://berlinsaint.github.io/blog/2018/11/28/%E4%BA%91%E5%8E%9F%E7%94%9F%E4%B8%8B%E7%9A%84%E5%BC%80%E5%8F%91%E6%B5%8B%E8%AF%95%E8%B0%83%E8%AF%95IDE/)
 
+### remote debug
+
+http://engineering.hipolabs.com/p/6ca38f0d-0dfd-447f-a911-dcb9e6b254ee/
+
+https://gist.github.com/veuncent/1e7fcfe891883dfc52516443a008cfcb
 
 ### CICD & DevOps
 https://www.qikqiak.com/post/kubernetes-jenkins1/
