@@ -23,6 +23,15 @@ https://xiaoxubeii.github.io/articles/practice-of-spark-on-kubernetes/
 
 https://lunatech.com/blog/XDxThxAAACoAMoL9/running-the-spark-notebook-on-a-kubernetes-google-cloud-cluster
 
+### Vscode & k8s
+
+https://github.com/Azure/vscode-kubernetes-tools/blob/master/debug-on-kubernetes.md
+
+https://www.infoq.cn/article/It1BQEYocrL9iGvoS-Xy
+
+[云原生下的开发测试调试IDE](https://berlinsaint.github.io/blog/2018/11/28/%E4%BA%91%E5%8E%9F%E7%94%9F%E4%B8%8B%E7%9A%84%E5%BC%80%E5%8F%91%E6%B5%8B%E8%AF%95%E8%B0%83%E8%AF%95IDE/)
+
+
 ### CICD & DevOps
 https://www.qikqiak.com/post/kubernetes-jenkins1/
 
