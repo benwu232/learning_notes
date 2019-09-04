@@ -23,6 +23,10 @@ https://xiaoxubeii.github.io/articles/practice-of-spark-on-kubernetes/
 
 https://lunatech.com/blog/XDxThxAAACoAMoL9/running-the-spark-notebook-on-a-kubernetes-google-cloud-cluster
 
+https://blog.csdn.net/yunqiinsight/article/details/90476823
+
+一些使用經驗，namespace隔離
+
 ### Vscode & k8s
 
 https://github.com/Azure/vscode-kubernetes-tools/blob/master/debug-on-kubernetes.md
