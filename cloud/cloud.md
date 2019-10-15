@@ -16,5 +16,14 @@
 
 [ZooKeeper简介](https://juejin.im/post/5bac3cde5188255c3b7d91a8)
 
+### Spark
+#### client mode和cluster mode的区别
+
+https://blog.csdn.net/Trigl/article/details/72732241
+
+https://baixin.ink/2018/04/28/spark-mode/
+
+[看了之后不再迷糊-Spark多种运行模式](https://www.jianshu.com/p/65a3476757a5)
+
 
 
