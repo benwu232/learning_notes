@@ -27,5 +27,9 @@ https://baixin.ink/2018/04/28/spark-mode/
 
 [Spark on Kubernetes原生支持浅析](https://www.jishuwen.com/d/23wg)
 
+https://www.youtube.com/watch?v=TDi9YFaw3ic
+
+一些命令
+
 
 
