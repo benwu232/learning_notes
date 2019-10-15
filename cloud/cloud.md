@@ -25,5 +25,7 @@ https://baixin.ink/2018/04/28/spark-mode/
 
 [看了之后不再迷糊-Spark多种运行模式](https://www.jianshu.com/p/65a3476757a5)
 
+[Spark on Kubernetes原生支持浅析](https://www.jishuwen.com/d/23wg)
+
 
 
