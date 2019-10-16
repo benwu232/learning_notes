@@ -37,5 +37,10 @@ https://www.youtube.com/watch?v=RVNud7tO2hA&list=PLfXXwftXUhTqeLCbIZiFfC_yOEbmn_
 
 31:00 best practice
 
+https://www.youtube.com/watch?v=5O03Q4UetnA&list=PLfXXwftXUhTqeLCbIZiFfC_yOEbmn_gJw&index=3
+
+13:28, 在facebook，大部分spark程序使用少於600M內存
+
+
 
 
