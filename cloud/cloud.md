@@ -41,6 +41,11 @@ https://www.youtube.com/watch?v=5O03Q4UetnA&list=PLfXXwftXUhTqeLCbIZiFfC_yOEbmn_
 
 13:28, 在facebook，大部分spark程序使用少於600M內存
 
+https://www.youtube.com/watch?v=c4MAgdriJzY&list=PLfXXwftXUhTqeLCbIZiFfC_yOEbmn_gJw&index=11
 
+spark streaming
+
+19:48, streaming example
+38:16，spark streaming code
 
 
