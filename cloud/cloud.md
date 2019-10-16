@@ -31,5 +31,9 @@ https://www.youtube.com/watch?v=TDi9YFaw3ic
 
 一些命令
 
+https://www.youtube.com/watch?v=RVNud7tO2hA&list=PLfXXwftXUhTqeLCbIZiFfC_yOEbmn_gJw
+
+29:00左右，
+
 
 
