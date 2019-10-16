@@ -33,7 +33,9 @@ https://www.youtube.com/watch?v=TDi9YFaw3ic
 
 https://www.youtube.com/watch?v=RVNud7tO2hA&list=PLfXXwftXUhTqeLCbIZiFfC_yOEbmn_gJw
 
-29:00左右，
+29:00左右，memory management
+
+31:00 best practice
 
 
 
