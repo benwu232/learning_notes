@@ -16,36 +16,4 @@
 
 [ZooKeeper简介](https://juejin.im/post/5bac3cde5188255c3b7d91a8)
 
-### Spark
-#### client mode和cluster mode的区别
-
-https://blog.csdn.net/Trigl/article/details/72732241
-
-https://baixin.ink/2018/04/28/spark-mode/
-
-[看了之后不再迷糊-Spark多种运行模式](https://www.jianshu.com/p/65a3476757a5)
-
-[Spark on Kubernetes原生支持浅析](https://www.jishuwen.com/d/23wg)
-
-https://www.youtube.com/watch?v=TDi9YFaw3ic
-
-一些命令
-
-https://www.youtube.com/watch?v=RVNud7tO2hA&list=PLfXXwftXUhTqeLCbIZiFfC_yOEbmn_gJw
-
-29:00左右，memory management
-
-31:00 best practice
-
-https://www.youtube.com/watch?v=5O03Q4UetnA&list=PLfXXwftXUhTqeLCbIZiFfC_yOEbmn_gJw&index=3
-
-13:28, 在facebook，大部分spark程序使用少於600M內存
-
-https://www.youtube.com/watch?v=c4MAgdriJzY&list=PLfXXwftXUhTqeLCbIZiFfC_yOEbmn_gJw&index=11
-
-spark streaming
-
-19:48, streaming example
-38:16，spark streaming code
-
 
