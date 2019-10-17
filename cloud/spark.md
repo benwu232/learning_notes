@@ -64,5 +64,5 @@ spark.read.json("/src/path").printSchema() get the schema of json
 
 https://spark-packages.org/
 
-
+https://www.sicara.ai/blog/2019-01-14-tutorial-test-pyspark-project-pytest
 
