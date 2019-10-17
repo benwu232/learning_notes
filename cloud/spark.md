@@ -64,5 +64,14 @@ spark.read.json("/src/path").printSchema() get the schema of json
 
 https://spark-packages.org/
 
+#### pytest
+
 https://www.sicara.ai/blog/2019-01-14-tutorial-test-pyspark-project-pytest
+
+https://towardsdatascience.com/stop-mocking-me-unit-tests-in-pyspark-using-pythons-mock-library-a4b5cd019d7e
+
+https://stackoverflow.com/questions/33811882/how-do-i-unit-test-pyspark-programs
+
+https://engblog.nextdoor.com/unit-testing-apache-spark-with-py-test-3b8970dc013b
+
 
