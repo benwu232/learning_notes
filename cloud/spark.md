@@ -50,7 +50,15 @@ https://towardsdatascience.com/create-your-first-etl-pipeline-in-apache-spark-an
 
 講了一些machine learning 的data cleaning
 
+https://www.helicaltech.com/basic-etl-spark/
 
+some code
+
+https://databricks.com/session/building-robust-etl-pipelines-with-apache-spark
+
+good, some concepts
+
+spark.read.json("/src/path").printSchema() get the schema of json
 
 
 
