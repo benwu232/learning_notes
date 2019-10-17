@@ -60,5 +60,7 @@ good, some concepts
 
 spark.read.json("/src/path").printSchema() get the schema of json
 
+一些示例代碼很有用
+
 
 
