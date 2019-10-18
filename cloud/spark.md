@@ -44,6 +44,10 @@ https://blog.panoply.io/top-9-python-etl-tools-and-when-to-use-them
 
 https://towardsdatascience.com/create-your-first-etl-pipeline-in-apache-spark-and-python-ec3d12e2c169
 
+an example to write mysql
+
+https://spark.apache.org/docs/latest/sql-data-sources-jdbc.html
+
 [使用Spark集群进行ETL的架构介绍](https://blog.csdn.net/zbc1090549839/article/details/54407876)
 
 [Spark 数据ETL](https://blog.csdn.net/u011204847/article/details/51247306)
@@ -62,6 +66,8 @@ spark.read.json("/src/path").printSchema() get the schema of json
 
 一些示例代碼很有用
 
+#### spark packages
+
 https://spark-packages.org/
 
 #### pytest
@@ -73,5 +79,19 @@ https://towardsdatascience.com/stop-mocking-me-unit-tests-in-pyspark-using-pytho
 https://stackoverflow.com/questions/33811882/how-do-i-unit-test-pyspark-programs
 
 https://engblog.nextdoor.com/unit-testing-apache-spark-with-py-test-3b8970dc013b
+
+#### spark streaming
+
+https://zhuanlan.zhihu.com/p/51883927
+
+介紹了structured streaming
+
+https://hackersandslackers.com/structured-streaming-in-pyspark/
+
+some code
+
+[Write DataFrame to mysql table using pySpark]https://stackoverflow.com/questions/46552161/write-dataframe-to-mysql-table-using-pyspark)
+
+
 
 
