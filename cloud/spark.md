@@ -92,6 +92,8 @@ some code
 
 [Write DataFrame to mysql table using pySpark]https://stackoverflow.com/questions/46552161/write-dataframe-to-mysql-table-using-pyspark)
 
+https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html
+
 
 
 
