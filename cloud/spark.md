@@ -95,5 +95,11 @@ some code
 https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html
 
 
+#### minikube
+
+https://computingforgeeks.com/how-to-install-apache-spark-on-ubuntu-debian/
+
+https://www.jishuwen.com/d/23wg
+
 
 
