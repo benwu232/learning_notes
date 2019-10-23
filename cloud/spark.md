@@ -102,4 +102,9 @@ https://computingforgeeks.com/how-to-install-apache-spark-on-ubuntu-debian/
 https://www.jishuwen.com/d/23wg
 
 
+#### debug spark
+
+https://stackoverflow.com/questions/30403685/how-can-i-debug-spark-application-locally
+
+
 
