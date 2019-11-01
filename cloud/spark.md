@@ -106,5 +106,13 @@ https://www.jishuwen.com/d/23wg
 
 https://stackoverflow.com/questions/30403685/how-can-i-debug-spark-application-locally
 
+#### spark on k8s
+[Spark on Kubernetes在Mac的Demo](https://zhuanlan.zhihu.com/p/64242678)
+
+https://medium.com/@aelbuni/apache-spark-2-4-3-running-jobs-in-kubernetes-cluster-ebd7a28b99cd
+
+
+
+
 
 
