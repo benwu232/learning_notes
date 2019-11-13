@@ -111,6 +111,11 @@ https://stackoverflow.com/questions/30403685/how-can-i-debug-spark-application-l
 
 https://medium.com/@aelbuni/apache-spark-2-4-3-running-jobs-in-kubernetes-cluster-ebd7a28b99cd
 
+#### dataframe
+[pyspark系列--pyspark读写dataframe](https://zhuanlan.zhihu.com/p/34901558)
+
+https://stackoverflow.com/questions/31385363/how-to-export-a-table-dataframe-in-pyspark-to-csv
+
 
 
 
