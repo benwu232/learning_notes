@@ -116,6 +116,12 @@ https://medium.com/@aelbuni/apache-spark-2-4-3-running-jobs-in-kubernetes-cluste
 
 https://stackoverflow.com/questions/31385363/how-to-export-a-table-dataframe-in-pyspark-to-csv
 
+#### spark 優化
+
+https://zhuanlan.zhihu.com/p/79543031
+
+[从一段代码浅谈pyspark性能优化](从一段代码浅谈pyspark性能优化)
+
 
 
 
