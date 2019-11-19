@@ -122,6 +122,12 @@ https://zhuanlan.zhihu.com/p/79543031
 
 [从一段代码浅谈pyspark性能优化](从一段代码浅谈pyspark性能优化)
 
+https://tech.meituan.com/2016/04/29/spark-tuning-basic.html
+
+http://sharkdtu.com/posts/pyspark-internal.html
+
+https://dongkelun.com/2018/06/03/sparkCacheAndPersist/
+
 
 
 
