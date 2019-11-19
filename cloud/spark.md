@@ -32,6 +32,12 @@ spark streaming
 19:48, streaming example
 38:16，spark streaming code
 
+#### spark dataframe and functions
+
+[pyspark读写dataframe](https://zhuanlan.zhihu.com/p/34901558)
+[pyspark系列--日期函数](https://zhuanlan.zhihu.com/p/34901927)
+[在spark中使用UDF函数](https://zhuanlan.zhihu.com/p/64410979)
+
 #### ETL
 
 https://www.cnblogs.com/yjd_hycf_space/p/7772722.html
@@ -127,6 +133,13 @@ https://tech.meituan.com/2016/04/29/spark-tuning-basic.html
 http://sharkdtu.com/posts/pyspark-internal.html
 
 https://dongkelun.com/2018/06/03/sparkCacheAndPersist/
+
+[Spark的RDD持久化详解](https://zhuanlan.zhihu.com/p/61555283)
+
+[spark内存模型调优](https://zhuanlan.zhihu.com/p/86297292)
+
+[Spark之开发调优以及资源调优](https://zhuanlan.zhihu.com/p/61598086)
+
 
 
 
