@@ -2,6 +2,8 @@
 
 jupyter lab --ip 0.0.0.0 --port 8888
 
+jupyter nbconvert --to script bigtable.ipynb 
+
 #### sql
 
 mysql -u growth_hacker -p -h 10.10.33.43
