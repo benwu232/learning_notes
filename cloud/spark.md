@@ -1,4 +1,18 @@
 ## Spark
+
+#### udf
+
+##### 輸入多個column到udf
+https://stackoverflow.com/questions/42540169/pyspark-pass-multiple-columns-in-udf
+
+##### udf輸出多個column
+https://stackoverflow.com/questions/47669895/how-to-add-multiple-columns-using-udf
+
+https://stackoverflow.com/questions/35322764/apache-spark-assign-the-result-of-udf-to-multiple-dataframe-columns
+
+https://stackoverflow.com/questions/48979440/how-to-use-udf-to-return-multiple-columns/48981218
+
+
 #### client mode和cluster mode的区别
 
 https://blog.csdn.net/Trigl/article/details/72732241
