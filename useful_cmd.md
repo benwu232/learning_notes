@@ -36,10 +36,16 @@ youtube-dl -f 137+251 https://www.youtube.com/playlist?list=PLiRrp7UEG13bjai3mwr
 
 下載並合併格式，需要ffmpeg
 
+youtube-dl -f best https://www.youtube.com/playlist?list=PLiRrp7UEG13bjai3mwraHEqjxBfoRJadd
+
+You can merge the video and audio of two formats into a single file using -f <video-format>+<audio-format> (requires ffmpeg or avconv installed), for example -f bestvideo+bestaudio will download the best video-only format, the best audio-only format and mux them together with ffmpeg/avconv.
+
 youtube-dl https://www.youtube.com/playlist?list=PLRvtZpAxKyorZNp291m0DlOL1q5Qj0ZX- -4 -F (--list-format)
 
 列出所有格式，強制使用Ipv4
 
 https://github.com/ytdl-org/youtube-dl
+
+
 
 
