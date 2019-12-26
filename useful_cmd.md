@@ -34,6 +34,12 @@ select * from rounds28 order by started_at desc limit 1;
 
 youtube-dl -f 137+251 https://www.youtube.com/playlist?list=PLiRrp7UEG13bjai3mwraHEqjxBfoRJadd
 
+下載並合併格式，需要ffmpeg
+
+youtube-dl https://www.youtube.com/playlist?list=PLRvtZpAxKyorZNp291m0DlOL1q5Qj0ZX- -4 -F (--list-format)
+
+列出所有格式，強制使用Ipv4
+
 https://github.com/ytdl-org/youtube-dl
 
 
