@@ -29,6 +29,19 @@ select count(*) from rounds28;
 
 select * from rounds28 order by started_at desc limit 1;
 
+ALTER TABLE abc ROW_FORMAT=COMPRESSED;
+
+ALTER TABLE abc KEY_BLOCK_SIZE=4;
+
+get table size:
+
+`SELECT 
+    table_name AS `Table`, 
+    round(((data_length + index_length) / 1024 / 1024), 2) `Size in MB` 
+FROM information_schema.TABLES 
+WHERE table_schema = "test_db"
+    AND table_name = "abc";
+`
 
 #### youtube-dl
 
