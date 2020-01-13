@@ -1,4 +1,7 @@
+### Python
+- [Python 资源大全中文版](http://jobbole.github.io/awesome-python-cn/)
 
+### Machine learning
 - [machine-learning-yearning](https://github.com/deeplearning-ai/machine-learning-yearning-cn)
 - [图解深度学习](https://zhuanlan.zhihu.com/p/61728242)
 - [编程之法：面试和算法心得](https://wizardforcel.gitbooks.io/the-art-of-programming-by-july/content/)
