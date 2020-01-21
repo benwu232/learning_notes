@@ -1,6 +1,9 @@
 ### Python
 - [Python 资源大全中文版](http://jobbole.github.io/awesome-python-cn/)
 
+### Data
+- [PythonDataScienceHandbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
 ### Machine learning
 - [machine-learning-yearning](https://github.com/deeplearning-ai/machine-learning-yearning-cn)
 - [图解深度学习](https://zhuanlan.zhihu.com/p/61728242)
