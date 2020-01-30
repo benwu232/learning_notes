@@ -59,6 +59,14 @@ youtube-dl https://www.youtube.com/playlist?list=PLRvtZpAxKyorZNp291m0DlOL1q5Qj0
 
 https://github.com/ytdl-org/youtube-dl
 
+#### kill a process by port
+
+##### win
+
+netstat -ano | findstr :8051
+
+taskkill /f /pid 2772
+
 
 
 
