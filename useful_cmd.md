@@ -73,6 +73,7 @@ taskkill /f /pid 2772
 
 replace with backreference
 
+/\d\+ 查找数字
 
 
 
