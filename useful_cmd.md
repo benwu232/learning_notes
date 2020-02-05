@@ -67,6 +67,12 @@ netstat -ano | findstr :8051
 
 taskkill /f /pid 2772
 
+#### VIM
+
+%s#\(new\|keep\)_players#month_\1_players#gc
+
+replace with backreference
+
 
 
 
