@@ -18,3 +18,7 @@ https://www.cheatography.com/konsnos/cheat-sheets/c-and-unity-monobehaviour/#dow
 
 
 [C#编码规范](https://gist.github.com/zhuqling/a2700703d088b8746f0c)
+
+### Books
+
+[Data Structures and Algorithms with Object-Oriented Design Patterns in C#](https://web.archive.org/web/20161207142802/http://www.brpreiss.com/books/opus6/)
