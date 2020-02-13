@@ -42,3 +42,9 @@ http://www.my-rates-notebook.de/post/dash_tutorial/
 
 https://medium.com/plotly/introducing-plotly-express-808df010143d
 
+### Dash
+
+https://towardsdatascience.com/how-to-build-a-complex-reporting-dashboard-using-dash-and-plotl-4f4257c18a7f
+
+
+
