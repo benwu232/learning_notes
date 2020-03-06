@@ -12,6 +12,16 @@ https://stackoverflow.com/questions/35322764/apache-spark-assign-the-result-of-u
 
 https://stackoverflow.com/questions/48979440/how-to-use-udf-to-return-multiple-columns/48981218
 
+##### drop duplicate
+
+https://stackoverflow.com/questions/50948245/spark-dropduplicates-source-code
+
+https://stackoverflow.com/questions/56076487/how-to-get-the-last-value-with-dropduplicates
+
+https://stackoverflow.com/questions/36623889/spark-how-to-do-a-dropduplicates-on-a-dataframe-while-keeping-the-highest-times
+
+https://stackoverflow.com/questions/35218882/find-maximum-row-per-group-in-spark-dataframe
+
 
 #### client mode和cluster mode的区别
 
