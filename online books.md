@@ -51,3 +51,4 @@
 - [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
 ### kafka
+- [The Internals of Kafka Streams](https://jaceklaskowski.gitbooks.io/mastering-kafka-streams/content/)
