@@ -21,4 +21,8 @@ https://realpython.com/python-application-layouts/
 
 [Python工程目录组织](https://zhuanlan.zhihu.com/p/36221226)
 
+#### python style 
+
+[The Best of the Best Practices (BOBP) Guide for Python](https://gist.github.com/sloria/7001839)
+
 
