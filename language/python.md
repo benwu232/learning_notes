@@ -25,4 +25,5 @@ https://realpython.com/python-application-layouts/
 
 [The Best of the Best Practices (BOBP) Guide for Python](https://gist.github.com/sloria/7001839)
 
+https://realpython.com/tutorials/best-practices/
 
