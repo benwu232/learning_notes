@@ -8,6 +8,8 @@ http://www.soshuvip.com
 
 [我从不囤电子书，因为我永远不愁找不到资源](https://zhuanlan.zhihu.com/p/104100458)
 
+[知道这些网站，不愁找不到电子书](https://zhuanlan.zhihu.com/p/73399765)
+
 [推荐8个高质量电子书网站](https://zhuanlan.zhihu.com/p/46939526)
 
 [7个免费又好用的电子书下载网站](https://zhuanlan.zhihu.com/p/104109155)
