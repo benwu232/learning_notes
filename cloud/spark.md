@@ -1,5 +1,8 @@
 ## Spark
 
+[单机用python写spark处理20G的数据](https://zhuanlan.zhihu.com/p/61970650)
+
+
 #### udf
 
 ##### 輸入多個column到udf
