@@ -1,17 +1,17 @@
-#### docker
+### docker
 docker stop $(docker ps -q)
 
 docker rm $(docker ps -aq)
 
 docker run --rm -it --name docker-stacks docker/stacks:latest /bin/bash
 
-#### jupyter
+### jupyter
 
 jupyter lab --ip 0.0.0.0 --port 8888
 
 jupyter nbconvert --to script bigtable.ipynb 
 
-#### sql
+### sql
 
 mysql -u growth_hacker -p -h 10.10.33.43
 
@@ -43,7 +43,7 @@ WHERE table_schema = "test_db"
     AND table_name = "abc";
 `
 
-#### youtube-dl
+### youtube-dl
 
 youtube-dl -f 137+251 https://www.youtube.com/playlist?list=PLiRrp7UEG13bjai3mwraHEqjxBfoRJadd
 
@@ -59,21 +59,23 @@ youtube-dl https://www.youtube.com/playlist?list=PLRvtZpAxKyorZNp291m0DlOL1q5Qj0
 
 https://github.com/ytdl-org/youtube-dl
 
-#### kill a process by port
+### kill a process by port
 
-##### win
+#### win
 
 netstat -ano | findstr :8051
 
 taskkill /f /pid 2772
 
-#### VIM
+### VIM
 
 %s#\(new\|keep\)_players#month_\1_players#gc
 
 replace with backreference
 
 /\d\+ 查找数字
+
+\r 换行
 
 
 
