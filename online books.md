@@ -4,6 +4,9 @@
 ### Data
 - [PythonDataScienceHandbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
+### Statistics
+[Think Stats: Exploratory Data Analysis in Python](http://greenteapress.com/thinkstats2/html/index.html)
+
 ### Machine learning
 - [machine-learning-yearning](https://github.com/deeplearning-ai/machine-learning-yearning-cn)
 - [图解深度学习](https://zhuanlan.zhihu.com/p/61728242)
