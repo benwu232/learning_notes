@@ -2,6 +2,9 @@
 
 [单机用python写spark处理20G的数据](https://zhuanlan.zhihu.com/p/61970650)
 
+#### examples
+
+https://sparkbyexamples.com/
 
 #### udf
 
