@@ -37,6 +37,7 @@
 - [Learning Apache Spark with Python](https://runawayhorse001.github.io/LearningApacheSpark/index.html)
 - [Spark internels](https://github.com/JerryLead/SparkInternals)
 - [The Internals of Apache Spark](https://legacy.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
+- [The Internals of Spark SQL](https://jaceklaskowski.gitbooks.io/mastering-spark-sql/content/)
 - [python-to-scala](https://wrobstory.gitbooks.io/python-to-scala/content/)
 
 ### Linux
