@@ -38,6 +38,7 @@
 - [Spark internels](https://github.com/JerryLead/SparkInternals)
 - [The Internals of Apache Spark](https://legacy.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
 - [The Internals of Spark SQL](https://jaceklaskowski.gitbooks.io/mastering-spark-sql/content/)
+- [The Internals of Spark Structured Streaming](https://jaceklaskowski.gitbooks.io/spark-structured-streaming/content/)
 - [python-to-scala](https://wrobstory.gitbooks.io/python-to-scala/content/)
 
 ### Linux
@@ -59,3 +60,4 @@
 
 ### kafka
 - [The Internals of Kafka Streams](https://jaceklaskowski.gitbooks.io/mastering-kafka-streams/content/)
+- [The Internals of Apache Kafka](https://jaceklaskowski.gitbooks.io/apache-kafka/content/)
