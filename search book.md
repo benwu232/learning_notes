@@ -5,7 +5,11 @@ https://b-ok.cc/
 
 http://gen.lib.rus.ec/
 
+site:epubw.com 电子书
+
 http://www.soshuvip.com
+
+https://www.shudan.vip/
 
 
 [我从不囤电子书，因为我永远不愁找不到资源](https://zhuanlan.zhihu.com/p/104100458)
