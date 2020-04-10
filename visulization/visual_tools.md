@@ -42,9 +42,32 @@ http://www.my-rates-notebook.de/post/dash_tutorial/
 
 https://medium.com/plotly/introducing-plotly-express-808df010143d
 
+
 ### Dash
 
 https://towardsdatascience.com/how-to-build-a-complex-reporting-dashboard-using-dash-and-plotl-4f4257c18a7f
 
 
+### pyecharts
+
+https://pyecharts.org
+
+https://zhuanlan.zhihu.com/p/63236019
+
+https://www.cnblogs.com/lightsong/p/11247641.html
+
+
+### Altair
+
+https://altair-viz.github.io/gallery/index.html
+
+### keplergl
+
+https://github.com/keplergl/kepler.gl
+
+https://zhuanlan.zhihu.com/p/71905247
+
+### Flourish
+
+https://app.flourish.studio
 
