@@ -67,6 +67,8 @@ https://github.com/keplergl/kepler.gl
 
 https://zhuanlan.zhihu.com/p/71905247
 
+### Folium
+
 ### Flourish
 
 https://app.flourish.studio
