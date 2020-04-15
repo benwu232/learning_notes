@@ -9,6 +9,10 @@ https://blog.csdn.net/u014025444/article/details/90111570
 
 ### 安装配置
 
+https://blog.csdn.net/z872845991/article/details/104653499
+
+解决了迅雷闪退的大问题
+
 https://zhuanlan.zhihu.com/p/50918522
 
 https://zhuanlan.zhihu.com/p/50776676
