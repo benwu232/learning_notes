@@ -13,6 +13,14 @@ https://blog.csdn.net/z872845991/article/details/104653499
 
 解决了迅雷闪退的大问题
 
+
+#### debtap
+
+https://blog.csdn.net/weixin_43968923/article/details/100170418#debtap_2
+
+
+https://blog.csdn.net/qq_43497702/article/details/104444444
+
 https://zhuanlan.zhihu.com/p/50918522
 
 https://zhuanlan.zhihu.com/p/50776676
