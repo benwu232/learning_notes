@@ -18,6 +18,7 @@ https://blog.csdn.net/z872845991/article/details/104653499
 
 https://blog.csdn.net/weixin_43968923/article/details/100170418#debtap_2
 
+[manjaro之kde折腾记录](https://rainss.cn/essay/1229.html)
 
 https://blog.csdn.net/qq_43497702/article/details/104444444
 
