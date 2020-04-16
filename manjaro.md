@@ -13,12 +13,10 @@ https://blog.csdn.net/z872845991/article/details/104653499
 
 解决了迅雷闪退的大问题
 
-
-#### debtap
-
-https://blog.csdn.net/weixin_43968923/article/details/100170418#debtap_2
-
 [manjaro之kde折腾记录](https://rainss.cn/essay/1229.html)
+
+https://yqsas.com/2019/03/03/manjaro-in-t480s/
+
 
 https://blog.csdn.net/qq_43497702/article/details/104444444
 
@@ -45,6 +43,9 @@ https://blog.csdn.net/weixin_37602603/article/details/79532080
 安装jdk
 
 
+https://blog.csdn.net/weixin_43968923/article/details/100170418#debtap_2
+
+debtap
 
 
 
