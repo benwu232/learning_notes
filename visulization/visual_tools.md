@@ -8,6 +8,8 @@
 
 #### low level
 
+https://plotly.com/python/creating-and-updating-figures/
+
 https://www.kaggle.com/kanncaa1/plotly-tutorial-for-beginners
 
 https://zhuanlan.zhihu.com/p/85557161
