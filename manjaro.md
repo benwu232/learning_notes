@@ -13,6 +13,7 @@ https://blog.csdn.net/z872845991/article/details/104653499
 
 解决了迅雷闪退的大问题
 
+[manjaro踩坑记](https://mrswolf.github.io/zh-cn/2019/05/24/manjaro%E8%B8%A9%E5%9D%91%E8%AE%B0/)
 [manjaro之kde折腾记录](https://rainss.cn/essay/1229.html)
 
 https://yqsas.com/2019/03/03/manjaro-in-t480s/
