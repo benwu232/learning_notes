@@ -6,6 +6,19 @@
 
 ### Plotly
 
+#### low level
+
+https://www.kaggle.com/kanncaa1/plotly-tutorial-for-beginners
+
+https://zhuanlan.zhihu.com/p/85557161
+
+https://cloud.tencent.com/developer/article/1439757
+
+https://blog.csdn.net/Andy_shenzl/article/details/82882808
+
+
+#### high level
+
 https://zhuanlan.zhihu.com/p/60308356
 
 介紹了plotly express
