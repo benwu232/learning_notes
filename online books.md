@@ -31,6 +31,10 @@
 - [《Designing Data-Intensive Application》DDIA中文翻译](https://github.com/Vonng/ddia)
 - [Kubernetes指南](https://kubernetes.feisky.xyz/)
 
+### Deep Learning
+- [动手学深度学习](http://zh.d2l.ai/) [pytorch实现](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
+
+
 ### Spark
 - (http://spark.apache.org/documentation.html)
 - (https://spark.apache.org/docs/latest/index.html)
