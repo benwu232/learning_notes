@@ -3,6 +3,8 @@
 
 https://pytorch.org/tutorials/
 
+https://pytorch.org/tutorials/beginner/ptcheat.html
+
 https://pytorch.org/docs/stable/index.html
 
 http://pytorch123.com/
