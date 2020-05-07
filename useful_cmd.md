@@ -33,6 +33,14 @@ ALTER TABLE abc ROW_FORMAT=COMPRESSED;
 
 ALTER TABLE abc KEY_BLOCK_SIZE=4;
 
+chown -R mysql:mysql /var/lib/mysql/
+
+create user 'abc'@'localhost' identified by '*Abcd1234';
+
+GRANT ALL PRIVILEGES ON *.* TO 'abc'@'%'IDENTIFIED BY '*Abcd1234' WITH GRANT OPTION;
+
+FLUSH privileges;
+
 get table size:
 
 `SELECT 
@@ -42,6 +50,10 @@ FROM information_schema.TABLES
 WHERE table_schema = "test_db"
     AND table_name = "abc";
 `
+systemctl start mariadb #启动MariaDB
+systemctl stop mariadb #停止MariaDB
+systemctl restart mariadb #重启MariaDB
+systemctl enable mariadb #设置开机启动
 
 ### youtube-dl
 
