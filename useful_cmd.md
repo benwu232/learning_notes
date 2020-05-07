@@ -39,6 +39,8 @@ create user 'abc'@'localhost' identified by '*Abcd1234';
 
 GRANT ALL PRIVILEGES ON *.* TO 'abc'@'%'IDENTIFIED BY '*Abcd1234' WITH GRANT OPTION;
 
+GRANT ALL PRIVILEGES ON *.* TO 'abc'@'localhost' IDENTIFIED BY '*Abcd1234' WITH GRANT OPTION;
+
 FLUSH privileges;
 
 get table size:
