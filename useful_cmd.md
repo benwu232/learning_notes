@@ -91,5 +91,6 @@ replace with backreference
 
 \r 换行
 
+### Configure pyspark in pycharm
 
-
+File - Settings - Project structure - Add Content Root (/opt/spark/python/lib/ pyspark.zip, py4j*src.zip)
