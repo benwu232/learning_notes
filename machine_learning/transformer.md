@@ -1,4 +1,7 @@
 
+https://jalammar.github.io/illustrated-transformer/
+
+结构介绍的很清晰
 
 https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
 
@@ -9,6 +12,8 @@ https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html
 [When Recurrent Models Don't Need to be Recurrent](https://bair.berkeley.edu/blog/2018/08/06/recurrent/)
 
 https://ai.googleblog.com/2020/01/reformer-efficient-transformer.html
+
+https://towardsdatascience.com/memory-attention-sequences-37456d271992
 
 
 https://zhuanlan.zhihu.com/p/48508221
