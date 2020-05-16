@@ -1,3 +1,25 @@
+#### Reformer
+
+https://zhuanlan.zhihu.com/p/115741192
+
+https://zhuanlan.zhihu.com/p/105123890
+
+https://www.zhihu.com/question/349958732/answer/945349902
+
+https://zhuanlan.zhihu.com/p/48612853
+
+https://www.zhihu.com/question/347833432/answer/836971492
+
+https://zhuanlan.zhihu.com/p/120858314
+
+https://zhuanlan.zhihu.com/p/99737208
+
+[GPU 显存不足怎么办？](https://zhuanlan.zhihu.com/p/100884995)
+
+[一文看懂 Attention（本质原理+3大优点+5大类型）](https://zhuanlan.zhihu.com/p/91839581)
+
+
+#### Transformer
 
 https://jalammar.github.io/illustrated-transformer/
 
