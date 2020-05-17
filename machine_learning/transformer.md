@@ -14,6 +14,8 @@ https://zhuanlan.zhihu.com/p/120858314
 
 https://zhuanlan.zhihu.com/p/99737208
 
+[如何优雅地训练大型模型？](https://zhuanlan.zhihu.com/p/110278004)
+
 [GPU 显存不足怎么办？](https://zhuanlan.zhihu.com/p/100884995)
 
 [一文看懂 Attention（本质原理+3大优点+5大类型）](https://zhuanlan.zhihu.com/p/91839581)
