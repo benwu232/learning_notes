@@ -14,11 +14,16 @@ https://zhuanlan.zhihu.com/p/120858314
 
 https://zhuanlan.zhihu.com/p/99737208
 
+[一文看懂 Attention（本质原理+3大优点+5大类型）](https://zhuanlan.zhihu.com/p/91839581)
+
+#### 训练
+
 [如何优雅地训练大型模型？](https://zhuanlan.zhihu.com/p/110278004)
 
 [GPU 显存不足怎么办？](https://zhuanlan.zhihu.com/p/100884995)
 
-[一文看懂 Attention（本质原理+3大优点+5大类型）](https://zhuanlan.zhihu.com/p/91839581)
+[Pytorch有什么节省显存的小技巧？](https://www.zhihu.com/question/274635237/answer/755102181)
+
 
 
 #### Transformer
