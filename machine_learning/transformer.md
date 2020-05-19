@@ -25,13 +25,17 @@ https://zhuanlan.zhihu.com/p/99737208
 [Pytorch有什么节省显存的小技巧？](https://www.zhihu.com/question/274635237/answer/755102181)
 
 
-#### Bert
+#### Bert / XLnet
 
 [NLP必读：十分钟读懂谷歌BERT模型](https://zhuanlan.zhihu.com/p/51413773)
 
 [NLP的游戏规则从此改写？从word2vec, ELMo到BERT](https://zhuanlan.zhihu.com/p/47488095)
 
 [从Word Embedding到Bert模型—自然语言处理中的预训练技术发展史](https://zhuanlan.zhihu.com/p/49271699)
+
+[XLNet:运行机制及和Bert的异同比较](https://zhuanlan.zhihu.com/p/70257427)
+
+[效果惊人的GPT 2.0模型：它告诉了我们什么](https://zhuanlan.zhihu.com/p/56865533)
 
 https://zhuanlan.zhihu.com/p/132554155
 
@@ -53,6 +57,9 @@ code
 https://jalammar.github.io/illustrated-transformer/
 
 结构介绍的很清晰
+
+[The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+
 
 [transformer中的attention为什么scaled?](https://www.zhihu.com/question/339723385)
 
