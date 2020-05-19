@@ -25,6 +25,24 @@ https://zhuanlan.zhihu.com/p/99737208
 [Pytorch有什么节省显存的小技巧？](https://www.zhihu.com/question/274635237/answer/755102181)
 
 
+#### Bert
+
+[NLP必读：十分钟读懂谷歌BERT模型](https://zhuanlan.zhihu.com/p/51413773)
+
+[NLP的游戏规则从此改写？从word2vec, ELMo到BERT](https://zhuanlan.zhihu.com/p/47488095)
+
+[从Word Embedding到Bert模型—自然语言处理中的预训练技术发展史](https://zhuanlan.zhihu.com/p/49271699)
+
+https://zhuanlan.zhihu.com/p/132554155
+
+[为什么Bert的三个Embedding可以进行相加？](https://www.zhihu.com/question/374835153)
+
+[如何评价 BERT 模型？](https://www.zhihu.com/question/298203515)
+
+[Bert比之Word2Vec,有哪些进步呢？](https://www.zhihu.com/question/352468546/answer/870846960)
+
+https://zhuanlan.zhihu.com/p/46833276
+
 
 #### Transformer
 
@@ -35,6 +53,8 @@ code
 https://jalammar.github.io/illustrated-transformer/
 
 结构介绍的很清晰
+
+[transformer中的attention为什么scaled?](https://www.zhihu.com/question/339723385)
 
 https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
 
