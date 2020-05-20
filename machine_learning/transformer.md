@@ -25,7 +25,7 @@ https://zhuanlan.zhihu.com/p/99737208
 [Pytorch有什么节省显存的小技巧？](https://www.zhihu.com/question/274635237/answer/755102181)
 
 
-#### Bert / XLnet
+#### Bert / XLnet / Albert
 
 [NLP必读：十分钟读懂谷歌BERT模型](https://zhuanlan.zhihu.com/p/51413773)
 
@@ -33,9 +33,15 @@ https://zhuanlan.zhihu.com/p/99737208
 
 [从Word Embedding到Bert模型—自然语言处理中的预训练技术发展史](https://zhuanlan.zhihu.com/p/49271699)
 
+[超细节的BERT/Transformer知识点](https://zhuanlan.zhihu.com/p/132554155)
+
 [XLNet:运行机制及和Bert的异同比较](https://zhuanlan.zhihu.com/p/70257427)
 
 [效果惊人的GPT 2.0模型：它告诉了我们什么](https://zhuanlan.zhihu.com/p/56865533)
+
+[如何看待瘦身成功版BERT——ALBERT](https://www.zhihu.com/question/347898375)
+
+[一文看尽2019年NLP前沿突破量子位](https://zhuanlan.zhihu.com/p/101416113)
 
 https://zhuanlan.zhihu.com/p/132554155
 
@@ -46,6 +52,10 @@ https://zhuanlan.zhihu.com/p/132554155
 [Bert比之Word2Vec,有哪些进步呢？](https://www.zhihu.com/question/352468546/answer/870846960)
 
 https://zhuanlan.zhihu.com/p/46833276
+
+#### padding
+
+[NLP 中的Mask全解](https://zhuanlan.zhihu.com/p/139595546)
 
 
 #### Transformer
