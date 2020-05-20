@@ -53,10 +53,15 @@ https://zhuanlan.zhihu.com/p/132554155
 
 https://zhuanlan.zhihu.com/p/46833276
 
-#### padding
+#### padding & mask
 
 [NLP 中的Mask全解](https://zhuanlan.zhihu.com/p/139595546)
 
+[深度学习中的mask到底是什么意思](https://www.zhihu.com/question/320615749/answer/1080485410)
+
+[为什么RNN 需要mask 输入](https://www.zhihu.com/question/55014250/answer/214236204)
+
+[从语言模型到Seq2Seq：Transformer如戏，全靠Mask](从语言模型到Seq2Seq：Transformer如戏，全靠Mask)
 
 #### positional encoding
 
