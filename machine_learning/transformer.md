@@ -58,6 +58,14 @@ https://zhuanlan.zhihu.com/p/46833276
 [NLP 中的Mask全解](https://zhuanlan.zhihu.com/p/139595546)
 
 
+#### positional encoding
+
+[如何理解Transformer论文中的positional encoding](https://www.zhihu.com/question/347678607)
+
+[BERT为何使用学习的position embedding而非正弦position encoding?](https://www.zhihu.com/question/307293465)
+
+https://kazemnejad.com/blog/transformer_architecture_positional_encoding/
+
 #### Transformer
 
 https://towardsdatascience.com/how-to-code-the-transformer-in-pytorch-24db27c8f9ec
