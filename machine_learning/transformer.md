@@ -61,7 +61,7 @@ https://zhuanlan.zhihu.com/p/46833276
 
 [为什么RNN 需要mask 输入](https://www.zhihu.com/question/55014250/answer/214236204)
 
-[从语言模型到Seq2Seq：Transformer如戏，全靠Mask](从语言模型到Seq2Seq：Transformer如戏，全靠Mask)
+[从语言模型到Seq2Seq：Transformer如戏，全靠Mask](https://kexue.fm/archives/6933)
 
 #### positional encoding
 
