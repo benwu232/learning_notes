@@ -32,7 +32,9 @@
 - [Kubernetes指南](https://kubernetes.feisky.xyz/)
 
 ### Deep Learning
-- [动手学深度学习](http://zh.d2l.ai/) [pytorch实现](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
+- [动手学深度学习](http://zh.d2l.ai/) 
+- [动手学深度学习-pytorch实现](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
+- [机器翻译：统计建模与深度学习方法](https://opensource.niutrans.com/mtbook/index.html)
 
 
 ### Spark
