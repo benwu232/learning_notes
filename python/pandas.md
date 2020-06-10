@@ -1,4 +1,8 @@
 
+[Pandas速查手册中文版](https://zhuanlan.zhihu.com/p/25630700)
+
+[数据分析入门常用的 23 个牛逼 Pandas 代码](https://zhuanlan.zhihu.com/p/43713035)
+
 https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 
 [资源大集合](https://www.zhihu.com/question/56310477)
