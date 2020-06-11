@@ -94,3 +94,7 @@ replace with backreference
 ### Configure pyspark in pycharm
 
 File - Settings - Project structure - Add Content Root (/opt/spark/python/lib/ pyspark.zip, py4j*src.zip)
+
+### Git
+ 
+git clone --depth=1 XXX.XXX
