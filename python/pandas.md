@@ -5,6 +5,8 @@
 
 https://towardsdatascience.com/23-great-pandas-codes-for-data-scientists-cca5ed9d8a38
 
+[Python pandas库159个常用方法使用说明](https://zhuanlan.zhihu.com/p/129880730)
+
 https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 
 [资源大集合](https://www.zhihu.com/question/56310477)
