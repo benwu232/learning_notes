@@ -18,6 +18,8 @@ https://plotly.com/python/reference/
 
 https://plotly.com/python/basic-charts/
 
+https://plotly.com/python-api-reference/generated/plotly.express.html
+
 https://www.kaggle.com/kanncaa1/plotly-tutorial-for-beginners
 
 https://zhuanlan.zhihu.com/p/85557161
