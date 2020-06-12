@@ -14,6 +14,8 @@ https://plotly.com/python/creating-and-updating-figures/
 
 https://plotly.com/python/reference/
 
+https://plotly.com/python/basic-charts/
+
 https://www.kaggle.com/kanncaa1/plotly-tutorial-for-beginners
 
 https://zhuanlan.zhihu.com/p/85557161
