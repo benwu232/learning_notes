@@ -53,6 +53,10 @@ https://zhuanlan.zhihu.com/p/132554155
 
 https://zhuanlan.zhihu.com/p/46833276
 
+[【NLP】Universal Transformers详解](https://zhuanlan.zhihu.com/p/44655133)
+
+[谷歌的机器翻译模型 Transformer，现在可以用来做任何事了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650747087&idx=3&sn=0157141d97fa2f7f8907e840d68def5d&chksm=871af4b1b06d7da7a18fe60375be52a7b40739f1972efba50b7712c67c7cfd93f00aad4dced0&mpshare=1&scene=24&srcid=0817VCBRh4QR9EkZV9R1W2xg#rd)
+
 #### padding & mask
 
 [NLP 中的Mask全解](https://zhuanlan.zhihu.com/p/139595546)
@@ -83,6 +87,7 @@ https://jalammar.github.io/illustrated-transformer/
 
 [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
+[详解Transformer](https://zhuanlan.zhihu.com/p/48508221)
 
 [transformer中的attention为什么scaled?](https://www.zhihu.com/question/339723385)
 
@@ -140,4 +145,15 @@ https://zhuanlan.zhihu.com/p/54770086
 https://ricardokleinklein.github.io/2017/11/16/Attention-is-all-you-need.html
 
 https://medium.com/@adityathiruvengadam/transformer-architecture-attention-is-all-you-need-aeccd9f50d09
+
+### trend
+
+- [ICLR 2020趋势分析：NLP中更好&更快的Transformer](https://zhuanlan.zhihu.com/p/143852458)
+- https://zhuanlan.zhihu.com/p/141624736
+- [从BERT、XLNet到MPNet，细看NLP预训练模型发展变迁史](https://zhuanlan.zhihu.com/p/146325984)
+- [2020年NLP所有领域最新、经典、顶会、必读论文整理分享](https://zhuanlan.zhihu.com/p/143123368)
+- [transformer三部曲](https://zhuanlan.zhihu.com/p/85612521)
+- [ICML(2020)自然语言处理（NLP）论文汇总](https://zhuanlan.zhihu.com/p/145798732)
+
+
 
