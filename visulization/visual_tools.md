@@ -8,6 +8,8 @@
 
 #### low level
 
+https://plotly.com/python/
+
 https://plotly.com/python/plotly-fundamentals/
 
 https://plotly.com/python/creating-and-updating-figures/
