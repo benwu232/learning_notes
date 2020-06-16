@@ -5,11 +5,6 @@ docker rm $(docker ps -aq)
 
 docker run --rm -it --name docker-stacks docker/stacks:latest /bin/bash
 
-### jupyter
-
-jupyter lab --ip 0.0.0.0 --port 8888
-
-jupyter nbconvert --to script bigtable.ipynb 
 
 ### sql
 
