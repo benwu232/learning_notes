@@ -57,6 +57,8 @@ https://zhuanlan.zhihu.com/p/46833276
 
 [谷歌的机器翻译模型 Transformer，现在可以用来做任何事了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650747087&idx=3&sn=0157141d97fa2f7f8907e840d68def5d&chksm=871af4b1b06d7da7a18fe60375be52a7b40739f1972efba50b7712c67c7cfd93f00aad4dced0&mpshare=1&scene=24&srcid=0817VCBRh4QR9EkZV9R1W2xg#rd)
 
+[性能媲美BERT却只有其1/10参数量？ | 近期最火模型ELECTRA解析](https://mp.weixin.qq.com/s?__biz=MzAxMDk0OTI3Ng==&mid=2247484022&idx=1&sn=efa203443f39e055c8d575c4f1ad6c33&chksm=9b49c585ac3e4c9388bbd9f40b57cf14344f76d5e30a8876ccc66c4da5a2bdad09e1c81fc2a6&scene=21#wechat_redirect)
+
 #### padding & mask
 
 [NLP 中的Mask全解](https://zhuanlan.zhihu.com/p/139595546)
