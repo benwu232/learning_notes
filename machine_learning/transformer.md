@@ -89,6 +89,15 @@ https://jalammar.github.io/illustrated-transformer/
 
 [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
+[Transformer注解及PyTorch实现](https://www.cnblogs.com/guoyaohua/p/transformer.html)
+
+[聊聊 Transformer](https://zhuanlan.zhihu.com/p/47812375)
+
+[Transformer 模型的 PyTorch 实现](https://juejin.im/post/5b9f1af0e51d450e425eb32d#comment)
+
+[Transformer模型的PyTorch实现](https://luozhouyang.github.io/transformer/) 解释了一些背后的原理
+
+
 [详解Transformer](https://zhuanlan.zhihu.com/p/48508221)
 
 [transformer中的attention为什么scaled?](https://www.zhihu.com/question/339723385)
