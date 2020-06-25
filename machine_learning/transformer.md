@@ -97,6 +97,9 @@ https://jalammar.github.io/illustrated-transformer/
 
 [Transformer模型的PyTorch实现](https://luozhouyang.github.io/transformer/) 解释了一些背后的原理
 
+http://www.360doc.com/content/20/0115/13/7673502_886318289.shtml
+
+
 
 [详解Transformer](https://zhuanlan.zhihu.com/p/48508221)
 
