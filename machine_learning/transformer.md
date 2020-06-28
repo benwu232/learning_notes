@@ -99,6 +99,8 @@ https://jalammar.github.io/illustrated-transformer/
 
 http://www.360doc.com/content/20/0115/13/7673502_886318289.shtml
 
+[灵魂20问帮你彻底搞定Transformer-干货！](https://zhuanlan.zhihu.com/p/148656446)
+
 
 
 [详解Transformer](https://zhuanlan.zhihu.com/p/48508221)
