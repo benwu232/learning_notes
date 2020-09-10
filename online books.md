@@ -3,6 +3,7 @@
 - [python hitchhike](https://pythonguidecn.readthedocs.io/zh/latest/index.html)
 - [python cookbook](https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html)
 - [pyton3 patterns](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html)
+- [python design patterns](https://www.tutorialspoint.com/python_design_patterns/index.htm)
 
 ### Data
 - [PythonDataScienceHandbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
