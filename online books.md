@@ -2,6 +2,7 @@
 - [Python 资源大全中文版](http://jobbole.github.io/awesome-python-cn/)
 - [python hitchhike](https://pythonguidecn.readthedocs.io/zh/latest/index.html)
 - [python cookbook](https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html)
+- [pyton3 patterns](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html)
 
 ### Data
 - [PythonDataScienceHandbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
