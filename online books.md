@@ -58,6 +58,7 @@
 - [docker doc](https://docs.docker.com/)
 - [play with docker](https://training.play-with-docker.com/)
 - [Docker — 从入门到实践](https://github.com/yeasy/docker_practice)
+- [linux mint installation](https://linuxmint-installation-guide.readthedocs.io/en/latest/index.html)
 
 ### kubernetes
 - [kubernetes 官网教程](https://kubernetes.io/zh/docs/tutorials/)
@@ -69,3 +70,5 @@
 ### kafka
 - [The Internals of Kafka Streams](https://jaceklaskowski.gitbooks.io/mastering-kafka-streams/content/)
 - [The Internals of Apache Kafka](https://jaceklaskowski.gitbooks.io/apache-kafka/content/)
+
+
