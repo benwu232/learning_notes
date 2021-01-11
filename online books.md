@@ -75,4 +75,5 @@
 - [The Internals of Kafka Streams](https://jaceklaskowski.gitbooks.io/mastering-kafka-streams/content/)
 - [The Internals of Apache Kafka](https://jaceklaskowski.gitbooks.io/apache-kafka/content/)
 
-
+### Data Architecture
+- [设计数据密集型应用 - 中文翻译](https://vonng.gitbooks.io/ddia-cn/content/)
