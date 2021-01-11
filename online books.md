@@ -33,6 +33,10 @@
 - [《Designing Data-Intensive Application》DDIA中文翻译](https://github.com/Vonng/ddia)
 - [Kubernetes指南](https://kubernetes.feisky.xyz/)
 
+### Data Architecture
+
+- [设计数据密集型应用 - 中文翻译](https://vonng.gitbooks.io/ddia-cn/content/)
+
 ### Deep Learning
 - [动手学深度学习](http://zh.d2l.ai/) 
 - [动手学深度学习-pytorch实现](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
