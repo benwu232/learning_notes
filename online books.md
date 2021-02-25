@@ -80,4 +80,4 @@
 - [设计数据密集型应用 - 中文翻译](https://vonng.gitbooks.io/ddia-cn/content/)
 
 ### 
-- [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
+- [Forecasting: Principles and Practice](https://otexts.com/fpp3/)
