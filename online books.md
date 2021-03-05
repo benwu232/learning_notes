@@ -27,7 +27,6 @@
 - [the hundred-page machine learning book](http://themlbook.com/wiki/doku.php)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 - [Statistical Thinking for the 21st Century](http://statsthinking21.org/)
-- [动手学深度学习](https://zh.gluon.ai/)
 - [极客学院](http://wiki.jikexueyuan.com/)
 - [immersive linear algebra](http://immersivemath.com/ila/index.html)
 - [《Designing Data-Intensive Application》DDIA中文翻译](https://github.com/Vonng/ddia)
