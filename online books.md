@@ -5,6 +5,7 @@
 - [pyton3 patterns](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html)
 - [python design patterns](https://www.tutorialspoint.com/python_design_patterns/index.htm)
 - [python 進階](https://docs.pythontab.com/interpy/)
+- [Intermediate Python](https://book.pythontips.com/en/latest/)
 - [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 
 ### Data
