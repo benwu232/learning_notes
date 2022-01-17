@@ -8,6 +8,7 @@
 - [Intermediate Python](https://book.pythontips.com/en/latest/)
 - [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 - [effective python](https://guoruibiao.gitbooks.io/effective-python/content/)
+- [Python Foundation for Spatial Analysis](https://courses.spatialthoughts.com/python-foundation.html)
 
 ### Data
 - [PythonDataScienceHandbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
