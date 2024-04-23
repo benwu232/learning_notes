@@ -35,18 +35,20 @@
 - [Statistical Thinking for the 21st Century](http://statsthinking21.org/)
 - [极客学院](http://wiki.jikexueyuan.com/)
 - [immersive linear algebra](http://immersivemath.com/ila/index.html)
-- [《Designing Data-Intensive Application》DDIA中文翻译](https://github.com/Vonng/ddia)
-- [Kubernetes指南](https://kubernetes.feisky.xyz/)
 
-### Data Architecture
-
-- [设计数据密集型应用 - 中文翻译](https://vonng.gitbooks.io/ddia-cn/content/)
-
+### Feature Engineering
+- [A Short Guide for Feature Engineering and Feature Selection](https://github.com/Yimeng-Zhang/feature-engineering-and-feature-selection/blob/master/A%20Short%20Guide%20for%20Feature%20Engineering%20and%20Feature%20Selection.md)
+  
 ### Deep Learning
 - [动手学深度学习](http://zh.d2l.ai/) 
 - [动手学深度学习-pytorch实现](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
 - [机器翻译：统计建模与深度学习方法](https://opensource.niutrans.com/mtbook/index.html)
 
+### Data Architecture
+
+- [设计数据密集型应用 - 中文翻译](https://vonng.gitbooks.io/ddia-cn/content/)
+- [《Designing Data-Intensive Application》DDIA中文翻译](https://github.com/Vonng/ddia)
+- [Kubernetes指南](https://kubernetes.feisky.xyz/)
 
 ### Spark
 - [spark权威指南](https://github.com/SnailDove/Translation_Spark-The-Definitive-Guide)
